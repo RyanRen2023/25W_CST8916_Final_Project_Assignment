@@ -10,6 +10,10 @@ The Rideau Canal Skateway, a historic and world-renowned attraction in Ottawa, n
 
 ### Overview
 In this assignment, you will design and implement a **real-time monitoring system** for the **Rideau Canal Skateway** using simulated IoT sensors, **Azure IoT Hub**, **Azure Stream Analytics**, and **Azure Blob Storage**. The system will simulate sensor data, process it in real time, and store the output in Azure Blob Storage.
+
+![Diagram](https://github.com/user-attachments/assets/a00d516a-3601-4981-a603-87fa0d5fcf76)
+
+
 ## Requirements
 
 ### 1. **Simulate IoT Sensors**
